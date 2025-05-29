@@ -82,16 +82,3 @@ Support with 💸 so I can buy ☕ and keep being 🔥!
 ---
 
 "Koding itu bukan tentang sempurna, tapi tentang terus mencoba!" 😊
-
-
-This README.md includes:
-1. Complete project structure
-2. Actual example files with code
-3. Setup instructions
-4. Learning materials in dropdown sections
-5. Support and charity sections
-6. License and contact info
-
-All in one ready-to-use file! Just copy and paste this into your README.md file in the repository.
-
-
